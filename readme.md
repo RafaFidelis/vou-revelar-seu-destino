@@ -1,4 +1,4 @@
-ANOTAÇÕES
+# ANOTAÇÕES
 
 # Comandos:
 - !+enter = gerar estrutura HTML
